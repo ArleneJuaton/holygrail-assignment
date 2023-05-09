@@ -18,7 +18,7 @@ The vintage "Holy Grail" web layout with retrofitted Dockerized Redis Database
 
 This repo contains a Redis/Docker project for my MIT Full Stack development course.
 
-<img src="https://github.com/ArleneJuaton/holygrail-assignment/main/holygrail-assignment.png">
+<img src="h[ttps://github.com/ArleneJuaton/holygrail-assignment/main/holygrail-assignment.png](https://github.com/ArleneJuaton/holygrail-assignment/blob/main/holygrail-assignment.png)">
 
 ## Description
 
